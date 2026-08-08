@@ -1,0 +1,1 @@
+print("anun kuy yai")
